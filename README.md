@@ -16,7 +16,7 @@
 
 🎥  Proximamente CREADOR DE CONTENIDO que transmitara sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y mi experiencia
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software 
+💻  Experiencia en el proceso de desarrollo de Web/ Diseño Grafico 
 
 📝 roles en el ámbito: desarrollador... líder... emprendedor... programador freelance... Diseñador... Ilustrador y en un futuro quién sabe ☺️
 
@@ -30,7 +30,7 @@
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=ae,angular,au,ai,blender,bootstrap,cloudflare,codepen,css,discord,django,eclipse,figma,firebase,git,github,html,instagram,java,js,linkedin,mysql,nodejs,ps,powershell,pr,py,sass,sqlite,stackoverflow,ts,unity,vscode,xd,wordpress,mongodb,gamemakerstudio,oracle&perline=12" />
   </a>
 </p>
