@@ -12,7 +12,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Voy en mi 6° semestre en INGENIERIA EN INFORMÁTICA
+🎓 Estudiante en INGENIERIA EN INFORMÁTICA
 
 🎥  Proximamente CREADOR DE CONTENIDO que transmitara sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y mi experiencia
 
